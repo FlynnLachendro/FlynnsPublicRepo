@@ -1,1 +1,1 @@
-Data engineering / science / ML learning projects.
+Data engineering / science / ML projects for my own learning.
